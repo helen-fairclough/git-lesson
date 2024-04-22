@@ -4,3 +4,4 @@
 
 + Go to Hicks building
 + Assign academics to open days
++ Email r.e. taking outreach bridges to open days
