@@ -8,4 +8,4 @@ This is a picture of the Milau Viaduct
 
 This is a picture of me feeding a kangaroo
 
-![](kangaroo.jpg)
+![](kangaroo.JPG)
